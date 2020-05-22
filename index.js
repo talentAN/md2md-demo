@@ -1,3 +1,3 @@
-const { setDirWatcher } = require("markdown2markdown");
+const { setDirWatcher } = require("mk2mk2");
 
 setDirWatcher();
