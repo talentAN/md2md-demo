@@ -1,0 +1,16 @@
+{
+  "name": "markdown2markdown-demo",
+  "version": "1.0.0",
+  "description": "quick start for Product Documentation Engineer",
+  "main": "index.js",
+  "repository": "https://github.com/talentAN/markdown2markdown-demo.git",
+  "author": "zhen.an <zhen.an@zilliz.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "markdown2markdown": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
