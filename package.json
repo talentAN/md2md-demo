@@ -1,14 +1,14 @@
 {
-  "name": "md2md2-demo",
+  "name": "md2md-demo",
   "version": "1.0.0",
   "description": "quick start for Product Documentation Engineer",
   "main": "index.js",
-  "repository": "https://github.com/talentAN/md2md2-demo.git",
+  "repository": "https://github.com/talentAN/md2md-demo.git",
   "author": "zhen.an <zhen.an@zilliz.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "md2md2": "^0.1.0"
+    "md2md": "^0.2.0"
   },
   "scripts": {
     "start": "node index.js"

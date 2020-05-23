@@ -1,9 +1,7 @@
-### This is the file your edit
+the variable a shoudld be => {{var.a}}
+the variable b should be : {{var.b}}
 
-var a should be => {{var.a}}
 
-var b should be => {{var.b}}
-
-{{fragment/root.md}}
-
-wulalallalla
+the author is {{var.auth.name}}
+{{fragment/try.md}}
+{{fragment/auth.md}}

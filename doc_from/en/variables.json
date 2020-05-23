@@ -2,5 +2,8 @@
   "a": "variable a",
   "b": "variable b",
   "c": "variable c",
-  "title": "File Title"
+  "auth": {
+    "name": "talentAN",
+    "github": "https://github.com/talentAN/md2md"
+  }
 }

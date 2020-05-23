@@ -1,3 +1,3 @@
-const { setDirWatcher } = require("md2md2");
+const { setDirWatcher } = require("md2md");
 
 setDirWatcher();
