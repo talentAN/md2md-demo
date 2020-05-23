@@ -1,7 +1,8 @@
-the variable a shoudld be => {{var.a}}
-the variable b should be : {{var.b}}
-
-
-the author is {{var.auth.name}}
 {{fragment/try.md}}
+
+a should be => {{var.a}}
+
+b should be => {{var.b}}
+
 {{fragment/auth.md}}
+

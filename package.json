@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "md2md": "^0.2.0"
+    "md2md": "^0.2.4"
   },
   "scripts": {
     "start": "node index.js"
