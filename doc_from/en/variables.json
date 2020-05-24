@@ -1,7 +1,5 @@
 {
-  "a": "variable a",
-  "b": "variable b",
-  "c": "variable c",
+  "content": "write whatever you like here ~",
   "auth": {
     "name": "talentAN",
     "github": "https://github.com/talentAN/md2md"
