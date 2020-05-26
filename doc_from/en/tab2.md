@@ -1,6 +1,6 @@
 ---
-label python
-order 2
+order: 2
+label: python
 ---
 
 {{tab}}
