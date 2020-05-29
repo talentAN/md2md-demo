@@ -1,5 +1,5 @@
-{{fragment/head.md}}
+{{fragments/head.md}}
 
 {{var.content}}
 
-{{fragment/tail.md}}
+{{fragments/tail.md}}

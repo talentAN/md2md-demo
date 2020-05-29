@@ -1,6 +1,6 @@
 {
   "useTemplate": true,
-  "path": "template/example.md",
+  "path": "templates/example.md",
   "var": {
     "title": "Use Template in child folder",
     "content": "this is a example use Template in child folder"
