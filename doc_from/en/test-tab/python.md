@@ -1,6 +1,8 @@
 ---
-order: 2
 label: python
+order: 1
+group: language
 ---
+
 
 {{tab}}

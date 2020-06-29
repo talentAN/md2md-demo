@@ -1,10 +1,5 @@
----
-a: lalala
-b:hahaha
----
-
 {{fragments/head.md}}
 
-{{var.content}}
+{{var.body}}
 
 {{fragments/tail.md}}
