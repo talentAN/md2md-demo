@@ -1,6 +1,6 @@
 {
-  "useTemplate": true,
-  "path": "templates/example.md",
+  "useTemplate": true,  // 必须
+  "path": "templates/example.md",　//　必须，模板的绝对路径
   "var": {
     "title": "Use Template",
     "content": "this is a example use Template"
